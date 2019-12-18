@@ -1,2 +1,4 @@
-# I-CURSO-BIOINFORMATICS-PERU
-CIICAM-I CURSO DE BIONFORMATICA INFERENCIA Y FILOGENIA MOLECULAR.
+# nataly-Ruiz
+Presentaciones del día 16 de Diciembre de 2019
+I taller de bioinformática 
+CIICAM - USM
